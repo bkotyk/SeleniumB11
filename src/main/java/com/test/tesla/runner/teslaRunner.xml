@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="tesla Runner">
+    <test name="tesla Tests">
+        <classes>
+            <class name="com.test.tesla.tests.TeslaTest"> </class>
+
+        </classes>
+    </test>
+</suite>
